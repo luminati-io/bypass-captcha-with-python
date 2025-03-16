@@ -43,7 +43,7 @@ Sound-based CAPTCHAs offer an accessibility option for visually impaired users. 
 
 Puzzle CAPTCHAs ask users to complete simple tasks, such as dragging an image into place or solving a logic challenge.
 
-![Puzzle-CAPTCHA-example](https://brightdata.com/wp-content/uploads/2024/07/Puzzle-CAPTCHA-example-1.png)
+![Puzzle-CAPTCHA-example](https://github.com/luminati-io/bypass-captcha-with-python/blob/main/images/Puzzle-CAPTCHA-example-1.png)
 
 Popular providers include [AWS WAF CAPTCHA](https://docs.aws.amazon.com/waf/latest/developerguide/waf-captcha-and-challenge.html) and [hCaptcha](https://www.hcaptcha.com/).
 
@@ -75,7 +75,7 @@ Time to explore the list of the top 5 solutions for bypassing CAPTCHAs in Python
 
 ### 1. CAPTCHA Solver from Web Unlocker
 
-![Bright Data's CAPTCHA Solver page](https://brightdata.com/wp-content/uploads/2024/07/Bright-Datas-CAPTCHA-Solver-page-1024x493.png)
+![Bright Data's CAPTCHA Solver page](https://github.com/luminati-io/bypass-captcha-with-python/blob/main/images/Bright-Datas-CAPTCHA-Solver-page-1024x493.png)
 
 [CAPTCHA Solver](https://brightdata.com/products/web-unlocker/captcha-solver) is a powerful tool by Bright Data designed to bypass CAPTCHAs from various providers. It mimics human-like behavior and browser fingerprints while using AI-powered algorithms to solve challenges.
 
@@ -100,7 +100,7 @@ With its high uptime (99.9%) and advanced anti-bot evasion, Bright Data ensures 
 
 ### 2. Playwright Extra with the Stealth Plugin
 
-![Playwright stealth plugin](https://brightdata.com/wp-content/uploads/2024/07/Playwright-stealth-plugin-1024x442.png)
+![Playwright stealth plugin](https://github.com/luminati-io/bypass-captcha-with-python/blob/main/images/Playwright-stealth-plugin-1024x442.png)
 
 Playwright Extra is an enhanced version of Playwright that supports plugins, allowing for better anti-bot evasion. The [playwright-stealth](https://pypi.org/project/playwright-stealth/) plugin for Python helps automated browsers appear more human-like, reducing detection by CAPTCHAs and anti-bot systems.
 
@@ -121,7 +121,7 @@ Playwright Extra with Stealth is a powerful open-source option for CAPTCHA avoid
 
 ### 3. AntiCaptcha
 
-![Image of the AntiCaptcha service](https://brightdata.com/wp-content/uploads/2024/07/Image-of-the-AntiCaptcha-service-1-1024x478.png)
+![Image of the AntiCaptcha service](https://github.com/luminati-io/bypass-captcha-with-python/blob/main/images/Image-of-the-AntiCaptcha-service-1-1024x478.png)
 
 AntiCaptcha has been a leading CAPTCHA-solving service since 2007, offering API-based solutions and browser plugin integration. It supports automation tools like Selenium and Puppeteer.
 
@@ -142,7 +142,7 @@ AntiCaptcha is a reliable solution for bypassing CAPTCHAs, especially for comple
 
 ### 4. Selenium with the Stealth Library
 
-![Selenium stealth library](https://brightdata.com/wp-content/uploads/2024/07/Selenium-stealth-library-1024x342.png)
+![Selenium stealth library](https://github.com/luminati-io/bypass-captcha-with-python/blob/main/images/Selenium-stealth-library-1024x342.png)
 
 Selenium is a widely used browser automation tool for testing and web scraping. It provides a robust API to automate browsers and mimic human interactions. However, it is often detected by anti-bot systems due to its default browser configurations.
 
@@ -161,7 +161,7 @@ Selenium Stealth is an effective tool for avoiding CAPTCHA triggers while automa
 
 ### 5. 2Captcha
 
-![Image of the 2Captcha service](https://brightdata.com/wp-content/uploads/2024/07/Image-of-the-2Captcha-service-1024x493.png)
+![Image of the 2Captcha service](https://github.com/luminati-io/bypass-captcha-with-python/blob/main/images/Image-of-the-2Captcha-service-1024x493.png)
 
 2Captcha is a CAPTCHA-solving service that distributes challenges to human workers for real-time solutions. It supports various CAPTCHA types and provides API integration with official libraries for multiple programming languages, including Python via [2captcha-python](https://pypi.org/project/2captcha-python/).
 
